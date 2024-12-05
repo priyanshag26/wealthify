@@ -1,4 +1,3 @@
-# SIP Finance Calculator
 
 ## Description
 
