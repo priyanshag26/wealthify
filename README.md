@@ -19,5 +19,5 @@ The app is built using the following technologies:
 
 ## Application Screenshots
 
-<img src = "https://github.com/user-attachments/assets/8dca3602-7760-4b48-b11c-de93c4f91079" width = 150 style="margin-right: 20px;">
-<img src = "https://github.com/user-attachments/assets/4279963c-d4f9-4291-ad78-a9674da5b525" width = 150 style="margin-right: 20px;">
+<img src = "https://github.com/user-attachments/assets/468df47e-aedb-40ec-a53c-c57b8eb6617b" width = 150 style="margin-right: 20px;">
+<img src = "https://github.com/user-attachments/assets/3cd1b4ee-c403-4191-b9c4-7a5e9489f722" width = 150 style="margin-right: 20px;">
